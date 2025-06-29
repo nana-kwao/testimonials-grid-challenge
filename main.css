@@ -40,6 +40,7 @@ main > section{
     height: auto;
     padding: clamp(1rem, 3vw, 1.5rem) clamp(1rem, 2vw, 2rem);
     border-radius: clamp(0.4em, 1vw, 0.6em);
+    box-shadow: 0 2rem 1.25rem 0 var(--grey200);
 }
 main > section > header{
     display: flex;

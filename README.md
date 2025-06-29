@@ -43,7 +43,11 @@ Here are some code snippets that highlight what I learned:
       </section>
       <img src="./images/bg-pattern-quotation.svg" class="quote" alt="quote" />
     </header>
-    <p class="para">I received a job offer mid-course, and the subjects I learned were current, if not more so, in the company I joined. I honestly feel I got every penny’s worth.</p>
+    <p class="para">
+      I received a job offer mid-course, and the subjects I learned were
+      current, if not more so, in the company I joined. I honestly feel I got
+      every penny’s worth.
+    </p>
     <q>I was an EMT for many years before I joined the bootcamp...</q>
   </section>
   <!-- ...other sections... -->
