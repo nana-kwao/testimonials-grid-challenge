@@ -24,7 +24,7 @@ body{
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-    background-color: var(--grey100);
+    background-color: var(--purple50);
 }
 main{
     display: flex;
